@@ -7,11 +7,11 @@ export function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-2">
-            <Palette className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline text-lg">DesignFlow</span>
+            {/* <Palette className="h-6 w-6 text-primary" /> */}
+            <span className="font-bold font-headline text-lg">dobsdesigns</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} DesignFlow Portfolio. All rights reserved.
+            &copy; {new Date().getFullYear()} dobsdesigns. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">

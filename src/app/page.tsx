@@ -48,11 +48,11 @@ export default function Home() {
   return (
     <div className="container mx-auto px-4 py-12">
       <section className="text-center mb-16">
-        <h1 className="text-5xl md:text-7xl font-bold font-headline bg-clip-text text-transparent bg-gradient-to-r from-primary to-orange-400">
-          DesignFlow Portfolio
+        <h1 className="text-5xl md:text-7xl font-bold font-headline bg-clip-text text-transparent bg-gradient-to-r text-white">
+        Designing <span className="text-primary">Brands</span> That Connect, <span className="text-primary">Convert,</span > and Stand <span className="text-primary">Out</span >
         </h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-          Crafting unique visual identities and compelling digital experiences. Explore a selection of our finest work.
+        We create strategic visual identities and digital experiences that help businesses grow with clarity and confidence.
         </p>
       </section>
 

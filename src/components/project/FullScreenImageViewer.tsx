@@ -5,10 +5,10 @@ import Image from 'next/image';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
-import { type ImagePlaceholder } from '@/lib/placeholder-images';
+import { type Image as ImageType } from '@/lib/data';
 
 interface FullScreenImageViewerProps {
-  images: ImagePlaceholder[];
+  images: ImageType[];
   startIndex: number;
   onClose: () => void;
 }

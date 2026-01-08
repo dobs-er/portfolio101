@@ -2,10 +2,10 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { type ImagePlaceholder } from '@/lib/placeholder-images';
+import { type Image as ImageType } from '@/lib/data';
 import { FullScreenImageViewer } from './FullScreenImageViewer';
 
-export function ProjectGallery({ designs }: { designs: ImagePlaceholder[] }) {
+export function ProjectGallery({ designs }: { designs: ImageType[] }) {
   const [selectedImageIndex, setSelectedImageIndex] = useState<number | null>(null);
 
   const openViewer = (index: number) => setSelectedImageIndex(index);

@@ -23,9 +23,9 @@ export default function ContactPage() {
                 </div>
                 <div>
                     <h3 className="font-headline text-lg font-semibold">Email</h3>
-                    <p className="text-muted-foreground">Drop a line anytime</p>
+                    <p className="text-muted-foreground">Send us an email</p>
                     <a href="mailto:hello@designflow.com" className="text-primary hover:underline">
-                        hello@designflow.com
+                        dobsdesigns101@gmail.com
                     </a>
                 </div>
              </div>
@@ -35,9 +35,9 @@ export default function ContactPage() {
                 </div>
                 <div>
                     <h3 className="font-headline text-lg font-semibold">Phone</h3>
-                    <p className="text-muted-foreground">Mon-Fri from 9am to 5pm</p>
+                    <p className="text-muted-foreground">Call or whatsup</p>
                     <a href="tel:+1234567890" className="text-primary hover:underline">
-                        +1 (234) 567-890
+                        +265(0)884 022 590
                     </a>
                 </div>
              </div>

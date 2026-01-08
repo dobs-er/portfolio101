@@ -6,6 +6,8 @@ import { ProjectGallery } from '@/components/project/ProjectGallery';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
+import type { Image as ImageType } from '@/lib/data';
+
 
 export function generateStaticParams() {
   return projects.map((project) => ({
