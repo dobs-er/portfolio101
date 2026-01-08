@@ -4,6 +4,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
+import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 
 function ProjectCard({ project }: { project: Project }) {
   return (
@@ -33,7 +34,7 @@ function ProjectCard({ project }: { project: Project }) {
 
 function ProjectGrid({ projects }: { projects: Project[] }) {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {projects.map((project) => (
         <ProjectCard key={project.slug} project={project} />
       ))}
@@ -56,11 +57,16 @@ export default function Home() {
       </section>
 
       <Tabs defaultValue="All" className="w-full">
-        <TabsList className="grid w-full grid-cols-2 sm:w-auto sm:inline-flex sm:grid-cols-4 mb-8">
-          {categories.map(category => (
-            <TabsTrigger key={category} value={category}>{category}</TabsTrigger>
-          ))}
-        </TabsList>
+        <div className="flex justify-center mb-8">
+            <ScrollArea className="w-full sm:w-auto pb-4">
+              <TabsList className="grid-flow-col">
+                {categories.map(category => (
+                  <TabsTrigger key={category} value={category}>{category}</TabsTrigger>
+                ))}
+              </TabsList>
+              <ScrollBar orientation="horizontal" />
+            </ScrollArea>
+        </div>
         <TabsContent value="All">
           <ProjectGrid projects={projects} />
         </TabsContent>
