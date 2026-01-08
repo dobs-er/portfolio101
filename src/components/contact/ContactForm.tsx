@@ -1,9 +1,9 @@
-'use client';
+"use client";
 
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
-import * as z from 'zod';
-import { Button } from '@/components/ui/button';
+import { useForm } from "react-hook-form";
+import { zodResolver } from "@hookform/resolvers/zod";
+import * as z from "zod";
+import { Button } from "@/components/ui/button";
 import {
   Form,
   FormControl,
@@ -11,17 +11,19 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from '@/components/ui/form';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
-import { useToast } from '@/hooks/use-toast';
-import { handleContactForm } from '@/lib/actions';
-import { Loader2, Send } from 'lucide-react';
+} from "@/components/ui/form";
+import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
+import { useToast } from "@/hooks/use-toast";
+import { handleContactForm } from "@/lib/actions";
+import { Loader2, Send } from "lucide-react";
 
 const formSchema = z.object({
-  name: z.string().min(2, { message: 'Name must be at least 2 characters.' }),
-  email: z.string().email({ message: 'Please enter a valid email.' }),
-  message: z.string().min(10, { message: 'Message must be at least 10 characters.' }),
+  name: z.string().min(2, { message: "Name must be at least 2 characters." }),
+  email: z.string().email({ message: "Please enter a valid email." }),
+  message: z
+    .string()
+    .min(10, { message: "Message must be at least 10 characters." }),
 });
 
 export function ContactForm() {
@@ -29,9 +31,9 @@ export function ContactForm() {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      name: '',
-      email: '',
-      message: '',
+      name: "",
+      email: "",
+      message: "",
     },
   });
 
@@ -40,15 +42,16 @@ export function ContactForm() {
 
     if (result.success) {
       toast({
-        title: 'Message Sent!',
-        description: 'Thank you for reaching out. I will get back to you shortly.',
+        title: "Message Sent!",
+        description:
+          "Thank you for reaching out. We will get back to you shortly.",
       });
       form.reset();
     } else {
       toast({
-        variant: 'destructive',
-        title: 'Uh oh! Something went wrong.',
-        description: result.message || 'There was a problem with your request.',
+        variant: "destructive",
+        title: "Uh oh! Something went wrong.",
+        description: result.message || "There was a problem with your request.",
       });
     }
   }
@@ -57,15 +60,22 @@ export function ContactForm() {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 p-8 border rounded-lg shadow-sm bg-card">
+      <form
+        onSubmit={form.handleSubmit(onSubmit)}
+        className="space-y-6 p-8 border rounded-lg shadow-sm bg-card"
+      >
         <FormField
           control={form.control}
           name="name"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Name</FormLabel>
+              <FormLabel className="font-headline text-2xl">Name</FormLabel>
               <FormControl>
-                <Input placeholder="Your Name" {...field} />
+                <Input
+                  className="font-headline"
+                  placeholder="Your Name"
+                  {...field}
+                />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -76,9 +86,13 @@ export function ContactForm() {
           name="email"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Email</FormLabel>
+              <FormLabel className="font-headline text-2xl">Email</FormLabel>
               <FormControl>
-                <Input placeholder="your.email@example.com" {...field} />
+                <Input
+                  className="font-headline "
+                  placeholder="your.email@example.com"
+                  {...field}
+                />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -89,11 +103,11 @@ export function ContactForm() {
           name="message"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Message</FormLabel>
+              <FormLabel className="font-headline text-2xl">Message</FormLabel>
               <FormControl>
                 <Textarea
                   placeholder="Tell us about your project..."
-                  className="min-h-[150px]"
+                  className="min-h-[150px] font-headline "
                   {...field}
                 />
               </FormControl>
@@ -102,17 +116,17 @@ export function ContactForm() {
           )}
         />
         <Button type="submit" disabled={isSubmitting} className="w-full">
-            {isSubmitting ? (
-                <>
-                    <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                    Sending...
-                </>
-            ) : (
-                <>
-                    <Send className="mr-2 h-4 w-4" />
-                    Send Message
-                </>
-            )}
+          {isSubmitting ? (
+            <>
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+              Sending...
+            </>
+          ) : (
+            <>
+              <Send className="mr-2 h-4 w-4" />
+              Send Message
+            </>
+          )}
         </Button>
       </form>
     </Form>

@@ -1,175 +1,706 @@
 {
   "projects": [
     {
-      "slug": "aura-cosmetics-branding",
-      "title": "Aura Cosmetics",
+      "slug": "dobsdsegns",
+      "title": "Dobs Designs",
       "category": "Branding",
-      "description": "A complete brand identity for a new-age cosmetics line.",
-      "longDescription": "We developed a complete brand identity for Aura Cosmetics, a new-age cosmetics line focused on natural ingredients and minimalist aesthetics. The project included logo design, packaging, and a full suite of marketing materials aimed at creating a serene and trustworthy brand image.",
+      "description": "A series of designs for our brand.",
+      "longDescription": "This section includes different designs to showcase our brand and services inorder to reach out to our clinets and any other business that would be interestsed in our services.",
       "coverImage": {
         "id": "branding-1-cover",
         "description": "Abstract orange and black branding cover",
-        "imageUrl": "https://images.unsplash.com/photo-1711779321938-303c17dba951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBicmFuZGluZ3xlbnwwfHx8fDE3Njc4MDA2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageUrl": "/images/dobs/new-month-nov-1.png",
         "imageHint": "abstract branding"
       },
       "designs": [
         {
           "id": "branding-1-design-1",
           "description": "Business card design",
-          "imageUrl": "https://images.unsplash.com/photo-1623305463957-df17547327cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMGNhcmR8ZW58MHx8fHwxNzY3ODMwMDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/dobs/appreciation.png",
           "imageHint": "business card"
         },
         {
           "id": "branding-1-design-2",
           "description": "Brand logo on a wall",
-          "imageUrl": "https://images.unsplash.com/photo-1764976962891-578a6dd25313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb2dvJTIwd2FsbHxlbnwwfHx8fDE3Njc4MzAwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/dobs/elevate-your-brand.jpg",
           "imageHint": "logo wall"
         },
         {
           "id": "branding-1-design-3",
           "description": "Stationery set with brand colors",
-          "imageUrl": "https://images.unsplash.com/photo-1676282824852-4c4d70f76cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGF0aW9uZXJ5JTIwZGVzaWdufGVufDB8fHx8MTc2NzgzMDA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/dobs/black-friday.png",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-4",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/lets-start.png",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-5",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/New-Week-august.jpg",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-6",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/Artboard 1.png",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-7",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/TGIF.jpg",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-8",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/chef.jpg",
+          "imageHint": "stationery design"
+        },
+        {
+          "id": "branding-1-design-9",
+          "description": "Stationery set with brand colors",
+          "imageUrl": "/images/dobs/tiweruke.png",
           "imageHint": "stationery design"
         }
       ]
     },
     {
-      "slug": "digital-wave-social-campaign",
-      "title": "Digital Wave",
+      "slug": "Leads-Insurance-Brokers",
+      "title": "Leads Insurance Brokers",
       "category": "Social Media",
-      "description": "Engaging social media campaign for a tech conference.",
-      "longDescription": "For the annual Digital Wave tech conference, we created an engaging social media campaign to drive ticket sales and online engagement. The campaign featured a vibrant color palette, dynamic animations, and interactive content formats across Instagram, Facebook, and Twitter.",
+      "description": "Social Media designs for an insurance broker firm",
+      "longDescription": "This project involved creating captivating visuals for an insurance broker firm. The goal was to achieve consistency of the branding designs across diferent platforms while keeping the message simple and clear.",
       "coverImage": {
         "id": "social-1-cover",
         "description": "Colorful social media post layout",
-        "imageUrl": "https://images.unsplash.com/photo-1600096194534-95cf5ece04cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3Njc4MjU3Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageUrl": "/images/lib/lib-cover.jpg",
         "imageHint": "social media"
       },
       "designs": [
         {
           "id": "social-1-design-1",
           "description": "Instagram story template",
-          "imageUrl": "https://images.unsplash.com/photo-1633603939776-0d478b92144d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbnN0YWdyYW0lMjBzdG9yeXxlbnwwfHx8fDE3Njc4MzAwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/lib/06-06-25.jpg",
           "imageHint": "instagram story"
         },
         {
           "id": "social-1-design-2",
           "description": "Facebook ad banner",
-          "imageUrl": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmYWNlYm9vayUyMGFkfGVufDB8fHx8MTc2NzgzMDA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/lib/19-05-25.jpg",
           "imageHint": "facebook ad"
         },
         {
           "id": "social-1-design-3",
           "description": "Animated GIF for a social campaign",
-          "imageUrl": "https://picsum.photos/seed/s1d3/600/600",
+          "imageUrl": "/images/lib/23-05-25.jpg",
           "imageHint": "animated gif"
+        },
+        {
+          "id": "social-1-design-4",
+          "description": "Twitter post design",
+          "imageUrl": "/images/lib/24-03-25.jpg",
+          "imageHint": "twitter post"
+        },
+        {
+          "id": "social-1-design-5",
+          "description": "Twitter post design",
+          "imageUrl": "/images/lib/mon-18-11-24.jpg",
+          "imageHint": "twitter post"
+        },
+        {
+          "id": "social-1-design-6",
+          "description": "Twitter post design",
+          "imageUrl": "/images/lib/30-05-25.jpg",
+          "imageHint": "twitter post"
         }
       ]
     },
     {
-      "slug": "urban-sounds-music-festival",
-      "title": "Urban Sounds Fest",
+      "slug": "Zoda-bundles-identity",
+      "title": "Zoda Bundles Branding",
+      "category": "Branding",
+      "description": "Modern and clean brand identity for a technology startup.",
+      "longDescription": "Zoda bundles is a start up providing internet service to its customers. The project include creating a logo and branding materials for the business, so it showcases how the business name will be portrayed in the real world.",
+      "coverImage": {
+        "id": "branding-2-cover",
+        "description": "Geometric branding for a tech company",
+        "imageUrl": "/images/zoda/logo-branding.jpg",
+        "imageHint": "tech branding"
+      },
+      "designs": [
+        {
+          "id": "branding-3-design-1",
+          "description": "App icon concepts",
+          "imageUrl": "/images/zoda/billboard-mockup.jpg",
+          "imageHint": "app icon"
+        },
+        {
+          "id": "branding-3-design-2",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/bottle.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-3",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/t-shirt.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-4",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/store-logo.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-5",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/bag-cloth.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-6",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/t-shirt-2.jpg",
+          "imageHint": "website design"
+        }
+      ]
+    },
+    {
+      "slug": "Apokastasis-Ministry",
+      "title": "Apokastasis Ministry & Book launch ",
       "category": "Posters",
-      "description": "Vibrant and energetic poster series for a music festival.",
-      "longDescription": "This project involved creating a vibrant and energetic poster series for the Urban Sounds Music Festival. The design direction focused on bold typography and abstract geometric shapes to capture the dynamic atmosphere of the event, with variations for different artists and stages.",
+      "description": "Vibrant and energetic poster series for a book launch.",
+      "longDescription": "This project involved creating a vibrant and energetic poster series for the Apokastasis Ministry book launch. The design direction focused on bold typography clean and modern designs while ensuring that the message is being delivered clearly.",
       "coverImage": {
         "id": "poster-2-cover",
         "description": "Vibrant music festival poster",
-        "imageUrl": "https://images.unsplash.com/photo-1710888451642-21d3fb0bb44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMHBvc3RlcnxlbnwwfHx8fDE3Njc3NDY5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageUrl": "/images/apo/services.jpg",
         "imageHint": "music poster"
       },
       "designs": [
         {
           "id": "poster-2-design-1",
           "description": "Poster design details",
-          "imageUrl": "https://images.unsplash.com/photo-1536666267121-bb409b78e101?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3N0ZXIlMjBkZXRhaWx8ZW58MHx8fHwxNzY3ODMwMDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/apo/services.jpg",
           "imageHint": "poster detail"
         },
         {
           "id": "poster-2-design-2",
           "description": "Poster in a street mockup",
-          "imageUrl": "https://images.unsplash.com/photo-1543487945-139a97f387d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3N0ZXIlMjBtb2NrdXB8ZW58MHx8fHwxNzY3ODMwMDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/apo/CountDown-1.jpg",
           "imageHint": "poster mockup"
-        }
-      ]
-    },
-    {
-      "slug": "nova-tech-identity",
-      "title": "Nova Tech",
-      "category": "Branding",
-      "description": "Modern and clean brand identity for a technology startup.",
-      "longDescription": "Nova Tech, a forward-thinking AI startup, required a modern and clean brand identity. We delivered a versatile logo system, a defined color and typography guide, and templates for their web and print presence, reflecting their innovative and sophisticated technology.",
-      "coverImage": {
-        "id": "branding-2-cover",
-        "description": "Geometric branding for a tech company",
-        "imageUrl": "https://images.unsplash.com/photo-1765398073978-94f84257baf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWNoJTIwYnJhbmRpbmd8ZW58MHx8fHwxNzY3ODMwMDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "imageHint": "tech branding"
-      },
-      "designs": [
-        {
-          "id": "branding-2-design-1",
-          "description": "App icon concepts",
-          "imageUrl": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBpY29ufGVufDB8fHx8MTc2NzgwNjgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageHint": "app icon"
         },
         {
-          "id": "branding-2-design-2",
-          "description": "Website hero section design",
-          "imageUrl": "https://images.unsplash.com/photo-1559028012-481c04fa702d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3ZWJzaXRlJTIwZGVzaWdufGVufDB8fHx8MTc2Nzc0MzQyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-          "imageHint": "website design"
+          "id": "poster-2-design-3",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/CountDown-2.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-2-design-4",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/CountDown-3.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-2-design-5",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/CountDown-4.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-2-design-6",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/CountDown-5.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-2-design-7",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/CountDown-Today.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-2-design-8",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/apo/services-landscape.jpg",
+          "imageHint": "event poster"
         }
       ]
     },
+
     {
-      "slug": "cinema-noir-film-festival",
-      "title": "Cinema Noir Fest",
+      "slug": "raised-for-a-purpose",
+      "title": "RFP Ministry Poster Series",
       "category": "Posters",
-      "description": "A series of minimalist posters for a film festival.",
-      "longDescription": "We designed a series of minimalist posters for the Cinema Noir Film Festival. Using a limited color palette and stark imagery, the posters evoke the mood and tension of the classic film noir genre, creating a cohesive and atmospheric promotional campaign.",
+      "description": "A series of posters for a Ministry.",
+      "longDescription": "This project combines a series of poster designs for a ministry; Raised for a Purpose Ministries. The posters ranges from service posters, birthdays and",
       "coverImage": {
         "id": "poster-1-cover",
         "description": "Minimalist event poster cover",
-        "imageUrl": "https://images.unsplash.com/photo-1696075513135-b389e47034df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtaW5pbWFsaXN0JTIwcG9zdGVyfGVufDB8fHx8MTc2NzczNjg0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageUrl": "/images/rfp/kuhes-special-service-1.jpg",
         "imageHint": "minimalist poster"
       },
       "designs": [
         {
           "id": "poster-1-design-1",
           "description": "Close-up of poster typography",
-          "imageUrl": "https://images.unsplash.com/photo-1657211480070-87d4743e3b1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0eXBvZ3JhcGh5JTIwcG9zdGVyfGVufDB8fHx8MTc2NzczNjg0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/rfp/RS-2025.jpg",
           "imageHint": "typography poster"
         },
         {
           "id": "poster-1-design-2",
           "description": "Full view of the event poster",
-          "imageUrl": "https://images.unsplash.com/photo-1588608522569-ced4088f7b94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxldmVudCUyMHBvc3RlcnxlbnwwfHx8fDE3Njc4MzAwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/rfp/rfp-to-di-world-fv-1.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-3",
+          "description": "Close-up of poster details",
+          "imageUrl": "/images/rfp/Kuhes-COM-FV.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-4",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/hbd-sis-chifundo.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-5",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/kuhes-special-service-1.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-6",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/mwanza.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-7",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/hbd-ps-davie.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-8",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/hbd-brother-william.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-9",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/LunchHourServices-BT-V1.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-10",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/FSC-2025-1.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-11",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/how-to-prepare.jpg",
+          "imageHint": "event poster"
+        },
+        {
+          "id": "poster-1-design-12",
+          "description": "Full view of the event poster",
+          "imageUrl": "/images/rfp/relationship-seminar.jpg",
           "imageHint": "event poster"
         }
       ]
     },
+
     {
-      "slug": "luxe-fashion-social",
-      "title": "Luxe Fashion",
+      "slug": "Posters-series",
+      "title": "A compilation of Posters and Flyers",
+      "category": "Posters",
+      "description": "A series of various Posters and Flyers",
+      "longDescription": "This project showcases a compilation of various poster and flyer designs created for different clients and purposes. The designs range from minimalist to vibrant styles, each tailored to effectively communicate the intended message and capture the audience's attention.",
+      "coverImage": {
+        "id": "poster-2-cover",
+        "description": "Minimalist poster design for a charity event",
+        "imageUrl": "/images/posters/innotech-1.jpg",
+        "imageHint": "charity poster"
+      },
+      "designs": [
+        {
+          "id": "poster-2-design-1",
+          "description": "Poster design featuring a mountain landscape",
+          "imageUrl": "/images/posters/Arthur-Fatch.jpg",
+          "imageHint": "mountain poster"
+        },
+        {
+          "id": "poster-2-design-2",
+          "description": "Poster design featuring a forest scene",
+          "imageUrl": "/images/posters/bridgette.jpg",
+          "imageHint": "forest poster"
+        },
+        {
+          "id": "poster-2-design-3",
+          "description": "Poster design featuring a river",
+          "imageUrl": "/images/posters/hjk-career-intelligence.jpg",
+          "imageHint": "river poster"
+        },
+        {
+          "id": "poster-2-design-4",
+          "description": "Poster design featuring a desert landscape",
+          "imageUrl": "/images/posters/hbd.jpg",
+          "imageHint": "desert poster"
+        },
+        {
+          "id": "poster-2-design-5",
+          "description": "Poster design featuring an ocean view",
+          "imageUrl": "/images/posters/Events Poster-6-july-1.jpg",
+          "imageHint": "ocean poster"
+        },
+        {
+          "id": "poster-2-design-6",
+          "description": "Poster design featuring a sunset",
+          "imageUrl": "/images/posters/savethedate-a.jpg",
+          "imageHint": "sunset poster"
+        },
+        {
+          "id": "poster-2-design-7",
+          "description": "Poster design featuring wildlife",
+          "imageUrl": "/images/posters/PIL-new-month-november.png",
+          "imageHint": "wildlife poster"
+        },
+        {
+          "id": "poster-2-design-8",
+          "description": "Poster design featuring a cityscape",
+          "imageUrl": "/images/posters/flyer-a4-ex.jpg",
+          "imageHint": "cityscape poster"
+        },
+        {
+          "id": "poster-2-design-9",
+          "description": "Poster design featuring a night sky",
+          "imageUrl": "/images/posters/gta-11.jpg",
+          "imageHint": "night sky poster"
+        },
+        {
+          "id": "poster-2-design-10",
+          "description": "Poster design featuring abstract art",
+          "imageUrl": "/images/posters/Sponsor.jpg",
+          "imageHint": "abstract poster"
+        },
+        {
+          "id": "poster-2-design-11",
+          "description": "Poster design featuring geometric shapes",
+          "imageUrl": "/images/posters/power-remaigend.jpg",
+          "imageHint": "geometric poster"
+        },
+        {
+          "id": "poster-2-design-12",
+          "description": "Poster design featuring typography",
+          "imageUrl": "/images/posters/christie.jpg",
+          "imageHint": "typography poster"
+        }
+      ]
+    },
+
+    {
+      "slug": "Kuwala-Travel-Limited",
+      "title": "Kuwala Travel Ltd",
       "category": "Social Media",
-      "description": "Elegant and high-fashion social media visuals.",
-      "longDescription": "Luxe Fashion required elegant and high-fashion social media visuals for their new collection launch. Our team produced a suite of content including carousel posts, story templates, and header graphics that embody the brand's sophisticated and luxurious aesthetic.",
+      "description": "Elegant and high social media visuals for Kuwala Travel Ltd.",
+      "longDescription": "Kuwala Travel Limited required elegant and high-end social media captivating visuals for their new various social media campaigns. And we produced a suite of content including carousel posts, story templates, and header graphics that embody the brand's sophisticated aesthetic.",
       "coverImage": {
         "id": "social-2-cover",
         "description": "Elegant social media templates for a fashion brand",
-        "imageUrl": "https://images.unsplash.com/photo-1714426533738-d3703fcaf36e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmYXNoaW9uJTIwc29jaWFsfGVufDB8fHx8MTc2NzgzMDA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageUrl": "/images/kuwala/New-Month-September.jpg",
         "imageHint": "fashion social"
       },
       "designs": [
         {
           "id": "social-2-design-1",
           "description": "Carousel post design for Instagram",
-          "imageUrl": "https://images.unsplash.com/photo-1541086424127-174b262e64aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYXJvdXNlbCUyMHBvc3R8ZW58MHx8fHwxNzY3ODMwMDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "imageUrl": "/images/kuwala/New-Month-September.jpg",
           "imageHint": "carousel post"
         },
         {
           "id": "social-2-design-2",
           "description": "LinkedIn article header graphic",
-          "imageUrl": "https://picsum.photos/seed/s2d2/1128/376",
+          "imageUrl": "/images/kuwala/GueesTheDestination-Paris.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-3",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/kuwala/Kuwala-New-Month-August.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-4",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/kuwala/Ticket-Booking-Steps-2.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-2-design-5",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/kuwala/New-Month-October.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-6",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/kuwala/Month-End-Fares.jpg",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "Luteccs-Co-Host",
+      "title": "Luteccs Hosting Company",
+      "category": "Social Media",
+      "description": "Social Media Branding designs for Luteccs Co-Host.",
+      "longDescription": "As a hosting company, Luteccs required elegant and high-end social media captivating visuals for their various social media campaigns. And we produced a provided the services of social media designs branding to ensure that the message is conveyed effectively while maintaing the brand's identity.",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media templates for a fashion brand",
+        "imageUrl": "/images/lutecs/visibility.png",
+        "imageHint": "fashion social"
+      },
+      "designs": [
+        {
+          "id": "social-3-design-7",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/lutecs/bootcamp.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-3-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/domain-registartion.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/Easy-Payment.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-10",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/software-development.png",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-3-design-11",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/visibility.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-12",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/web-hosting-packages.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-13",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/payment-integrationn.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-14",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/lutecs/web-hosting.png",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "Paule-car-hire",
+      "title": "Paule Car Hire Designs",
+      "category": "Social Media",
+      "description": "A car Hiring brand.",
+      "longDescription": "Paule car Hire is a car rental company that provides various car hire services to its customers. The project involved creating social media designs that effectively communicate the brand's offerings and attract potential clients. We provided the services of social media design branding to ensure that the message is conveyed effectively while maintaing the brand's identity.",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media templates for a fashion brand",
+        "imageUrl": "/images/paule/appreciation.png",
+        "imageHint": "fashion social"
+      },
+      "designs": [
+        {
+          "id": "social-3-design-7",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/paule/fb&insta-profile.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-3-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/paule/destination.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/paule/appreciation.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-10",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/paule/adventure-awaits.png",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-3-design-11",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/paule/paule-world-aids-day.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-12",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/paule/safety first.png",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "SmartHostee",
+      "title": "SmartHostee Company ",
+      "category": "Social Media",
+      "description": "Social Awareness for hosting company.",
+      "longDescription": "Like any other business in the digital age, SmartHostee recognizes the importance of a strong online presence. Our team developed a series of social media graphics aimed at raising awareness about their hosting services and engaging with potential customers. The designs focused on clear messaging, appealing visuals, and consistent branding to effectively communicate the company's value proposition.",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media templates for a fashion brand",
+        "imageUrl": "/images/smarthostee/Artboard 6.jpg",
+        "imageHint": "fashion social"
+      },
+      "designs": [
+        {
+          "id": "social-3-design-7",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/smarthostee/Artboard 1.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-3-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 2.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 3.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-10",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 4.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-3-design-11",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 5.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-12",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 6.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-13",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 7.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-14",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 8.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-15",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smarthostee/Artboard 9.jpg",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "Loopmedia",
+      "title": "LoopMedia Branding ",
+      "category": "Branding",
+      "description": "A Tech Start up.",
+      "longDescription": "LoopMedia is a tech startup that specializes in innovative media solutions. Our team was tasked with creating a comprehensive branding package that reflects the company's cutting-edge approach and vision for the future. This included logo design, color palette development, and a visual representation of the company in the real world in terms of branding materials.",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media templates for a fashion brand",
+        "imageUrl": "/images/loop/cover.jpg",
+        "imageHint": "fashion social"
+      },
+      "designs": [
+        {
+          "id": "social-3-design-7",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/loop/bottle.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-3-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/loop/wall.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/loop/cargo.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-10",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/loop/id.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-3-design-11",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/loop/bag.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-3-design-12",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/loop/wrist.jpg",
           "imageHint": "linkedin header"
         }
       ]

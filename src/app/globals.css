@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Bricolage', lufga, Helvetica, sans-serif;
+  /* font-family: 'Bricolage', lufga, Helvetica, sans-serif; */
 }
 
 @layer base {

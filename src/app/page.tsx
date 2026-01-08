@@ -20,8 +20,12 @@ function ProjectCard({ project }: { project: Project }) {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
         <CardContent className="absolute bottom-0 left-0 p-6 w-full">
-          <h3 className="text-2xl font-headline font-bold text-white">{project.title}</h3>
-          <p className="text-sm text-primary-foreground/80">{project.category}</p>
+          <h3 className="text-2xl font-headline font-bold text-white">
+            {project.title}
+          </h3>
+          <p className="text-sm text-primary-foreground/80">
+            {project.category}
+          </p>
           <div className="flex items-center text-primary mt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
             <span>View Project</span>
             <ArrowRight className="ml-2 h-4 w-4" />
@@ -43,38 +47,48 @@ function ProjectGrid({ projects }: { projects: Project[] }) {
 }
 
 export default function Home() {
-  const categories = ["All", ...Array.from(new Set(projects.map(p => p.category)))];
+  const categories = [
+    "All",
+    ...Array.from(new Set(projects.map((p) => p.category))),
+  ];
 
   return (
     <div className="container mx-auto px-4 py-12">
       <section className="text-center mb-16">
         <h1 className="text-5xl md:text-7xl font-bold font-headline bg-clip-text text-transparent bg-gradient-to-r text-white">
-        Designing <span className="text-primary">Brands</span> That Connect, <span className="text-primary">Convert,</span > and Stand <span className="text-primary">Out</span >
+          beyond <span className="text-primary">design.</span>
         </h1>
-        <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-        We create strategic visual identities and digital experiences that help businesses grow with clarity and confidence.
+        <p className="mt-4 text-2xl font-headline text-muted-foreground max-w-2xl mx-auto">
+          Creating strategic visual identities and digital experiences that help
+          businesses grow with clarity and confidence.
         </p>
       </section>
 
-      <Tabs defaultValue="All" className="w-full">
+      <Tabs defaultValue="All" className="w-full font-headline text-2xl">
         <div className="flex justify-center mb-8">
-            <ScrollArea className="w-full sm:w-auto pb-4">
-              <TabsList className="grid-flow-col">
-                {categories.map(category => (
-                  <TabsTrigger key={category} value={category}>{category}</TabsTrigger>
-                ))}
-              </TabsList>
-              <ScrollBar orientation="horizontal" />
-            </ScrollArea>
+          <ScrollArea className="w-full sm:w-auto pb-4">
+            <TabsList className="grid-flow-col">
+              {categories.map((category) => (
+                <TabsTrigger key={category} value={category}>
+                  {category}
+                </TabsTrigger>
+              ))}
+            </TabsList>
+            <ScrollBar orientation="horizontal" />
+          </ScrollArea>
         </div>
         <TabsContent value="All">
           <ProjectGrid projects={projects} />
         </TabsContent>
-        {categories.filter(c => c !== "All").map(category => (
-          <TabsContent key={category} value={category}>
-            <ProjectGrid projects={projects.filter(p => p.category === category)} />
-          </TabsContent>
-        ))}
+        {categories
+          .filter((c) => c !== "All")
+          .map((category) => (
+            <TabsContent key={category} value={category}>
+              <ProjectGrid
+                projects={projects.filter((p) => p.category === category)}
+              />
+            </TabsContent>
+          ))}
       </Tabs>
     </div>
   );

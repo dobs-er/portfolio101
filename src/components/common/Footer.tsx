@@ -1,4 +1,4 @@
-import { Palette, Twitter, Instagram, Dribbble } from "lucide-react";
+import { Dribbble, Facebook, Instagram } from "lucide-react";
 import Link from "next/link";
 
 export function Footer() {
@@ -8,19 +8,30 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-2">
             {/* <Palette className="h-6 w-6 text-primary" /> */}
-            <span className="font-bold font-headline text-lg">dobsdesigns</span>
+            <span className="font-bold font-headline text-lg">
+              dobs<span className="text-primary">designs</span>
+            </span>
           </div>
-          <p className="text-sm text-muted-foreground">
+          <p className="text-sm text-muted-foreground font-headline">
             &copy; {new Date().getFullYear()} dobsdesigns. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
-            <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
-              <Twitter className="h-5 w-5" />
+            <Link
+              href="https://web.facebook.com/profile.php?id=61574678883473"
+              className="text-muted-foreground hover:text-primary transition-colors"
+            >
+              <Facebook className="h-5 w-5" />
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link
+              href="https://www.instagram.com/dobsdesigns?igsh=bmh0NWtqbWwxam5x"
+              className="text-muted-foreground hover:text-primary transition-colors"
+            >
               <Instagram className="h-5 w-5" />
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link
+              href="https://www.behance.net/dobsdesigns"
+              className="text-muted-foreground hover:text-primary transition-colors"
+            >
               <Dribbble className="h-5 w-5" />
             </Link>
           </div>

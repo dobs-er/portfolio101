@@ -1,4 +1,4 @@
-import portfolioData from './portfolio-data.json';
+import portfolioData from "./portfolio-data.json";
 
 export interface Image {
   id: string;
@@ -10,7 +10,7 @@ export interface Image {
 export interface Project {
   slug: string;
   title: string;
-  category: 'Branding' | 'Social Media' | 'Posters';
+  category: "Branding" | "Social Media" | "Posters" | "Print Media";
   description: string;
   longDescription: string;
   coverImage: Image;
