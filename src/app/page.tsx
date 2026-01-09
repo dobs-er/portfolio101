@@ -20,13 +20,13 @@ function ProjectCard({ project }: { project: Project }) {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
         <CardContent className="absolute bottom-0 left-0 p-6 w-full">
-          <h3 className="text-2xl font-headline font-bold text-white">
+          <h3 className="text-lg font-headline font-bold text-white">
             {project.title}
           </h3>
           <p className="text-sm text-primary-foreground/80">
             {project.category}
           </p>
-          <div className="flex items-center text-primary mt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+          <div className="flex items-center text-sm text-primary mt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
             <span>View Project</span>
             <ArrowRight className="ml-2 h-4 w-4" />
           </div>

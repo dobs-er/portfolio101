@@ -168,6 +168,42 @@
           "description": "Website hero section design",
           "imageUrl": "/images/zoda/t-shirt-2.jpg",
           "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-7",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/network-speed.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-8",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/new-value.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-9",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/spreading-joy.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-10",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/real-value.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-11",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/MiFi.jpg",
+          "imageHint": "website design"
+        },
+        {
+          "id": "branding-3-design-12",
+          "description": "Website hero section design",
+          "imageUrl": "/images/zoda/cover.jpg",
+          "imageHint": "website design"
         }
       ]
     },
@@ -332,7 +368,7 @@
       "coverImage": {
         "id": "poster-2-cover",
         "description": "Minimalist poster design for a charity event",
-        "imageUrl": "/images/posters/innotech-1.jpg",
+        "imageUrl": "/images/posters/Artboard 2.jpg",
         "imageHint": "charity poster"
       },
       "designs": [
@@ -363,7 +399,7 @@
         {
           "id": "poster-2-design-5",
           "description": "Poster design featuring an ocean view",
-          "imageUrl": "/images/posters/Events Poster-6-july-1.jpg",
+          "imageUrl": "/images/posters/innotech-1.jpg",
           "imageHint": "ocean poster"
         },
         {
@@ -399,7 +435,7 @@
         {
           "id": "poster-2-design-11",
           "description": "Poster design featuring geometric shapes",
-          "imageUrl": "/images/posters/happy-new-year-2.png",
+          "imageUrl": "/images/posters/Artboard 1.jpg",
           "imageHint": "geometric poster"
         },
         {
@@ -407,6 +443,12 @@
           "description": "Poster design featuring typography",
           "imageUrl": "/images/posters/christie.jpg",
           "imageHint": "typography poster"
+        },
+        {
+          "id": "poster-2-design-13",
+          "description": "Poster design featuring a sunset",
+          "imageUrl": "/images/posters/Artboard 2.jpg",
+          "imageHint": "sunset poster"
         }
       ]
     },
@@ -459,6 +501,130 @@
           "id": "social-2-design-6",
           "description": "LinkedIn article header graphic",
           "imageUrl": "/images/kuwala/Month-End-Fares.jpg",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "SmartApps",
+      "title": "Smart Apps Ltd",
+      "category": "Social Media",
+      "description": "Elegant and high social media visuals for Smart Apps Ltd.",
+      "longDescription": "Smart Apps Ltd is a tech brand that provides services like software development and IT consulting to its clients. This project showcases what the brand is all about through visuals",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media designs for a tech brand",
+        "imageUrl": "/images/smartapps/Artboard 1.jpg",
+        "imageHint": "tech branding"
+      },
+      "designs": [
+        {
+          "id": "social-2-design-1",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/smartapps/Artboard 1.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-2-design-2",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/Artboard 2.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-3",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/Artboard 5.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-4",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/Artboard 7.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-2-design-5",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/happy-mothers-day.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-6",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/SmartApps-Spam-Email-1.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-7",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/WebDesign-Services.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/Artboard 4.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/smartapps/SmartApps-New-Month-September.jpg",
+          "imageHint": "linkedin header"
+        }
+      ]
+    },
+
+    {
+      "slug": "petroleum-importers-limited",
+      "title": "Petroleum Importers Ltd",
+      "category": "Social Media",
+      "description": "Elegant and high social media visuals for Petroleum Importers Ltd.",
+      "longDescription": "Petroleum Importers Ltd is a company that specializes in the importation and distribution of petroleum products. They reached out to us to help them with their social media awareness branding and we did just that. ",
+      "coverImage": {
+        "id": "social-2-cover",
+        "description": "Elegant social media designs for a tech brand",
+        "imageUrl": "/images/pil/Events Poster-6-july-1.jpg",
+        "imageHint": "tech branding"
+      },
+      "designs": [
+        {
+          "id": "social-2-design-1",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/pil/congrats-APM.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "social-2-design-2",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/pil/happy-new-year.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-3",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/pil/pil-new-month-nov.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-4",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/pil/world-aids-day.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "social-2-design-5",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/pil/merry-christmas.png",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "social-2-design-6",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/pil/PIL-welcome-to-the-month-of-August.jpg",
           "imageHint": "linkedin header"
         }
       ]
@@ -654,6 +820,125 @@
     },
 
     {
+      "slug": "PrintMedia",
+      "title": "Print Media Designs",
+      "category": "Print Media",
+      "description": "Print Media Designs.",
+      "longDescription": "A compilation of different print media designs ranging from business cards, merchandise and others from different brands.",
+      "coverImage": {
+        "id": "print-2-cover",
+        "description": "Print media designs",
+        "imageUrl": "/images/printmedia/1.jpg",
+        "imageHint": "print media"
+      },
+      "designs": [
+        {
+          "id": "print-2-design-7",
+          "description": "Carousel post design for Instagram",
+          "imageUrl": "/images/loop/bottle.jpg",
+          "imageHint": "carousel post"
+        },
+        {
+          "id": "print-2-design-8",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/1.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-9",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/3.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-10",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/7.jpg",
+          "imageHint": "linkedin header"
+        },
+
+        {
+          "id": "print-2-design-11",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/14.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-12",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/17.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-13",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/19.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-14",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/22.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-15",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/23.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-16",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/mockup.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-17",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/mockup-2.jpg",
+          "imageHint": "linkedin header"
+        },
+        {
+          "id": "print-2-design-18",
+          "description": "merch design",
+          "imageUrl": "/images/printmedia/24.jpg",
+          "imageHint": "print media"
+        },
+        {
+          "id": "print-2-design-19",
+          "description": "LinkedIn article header graphic",
+          "imageUrl": "/images/printmedia/29.jpg",
+          "imageHint": "print media"
+        },
+        {
+          "id": "print-2-design-20",
+          "description": "merch design",
+          "imageUrl": "/images/printmedia/25.jpg",
+          "imageHint": "print media"
+        },
+        {
+          "id": "print-2-design-21",
+          "description": "merch design",
+          "imageUrl": "/images/printmedia/26.jpg",
+          "imageHint": "print media"
+        },
+        {
+          "id": "print-2-design-22",
+          "description": "merch design",
+          "imageUrl": "/images/printmedia/27.jpg",
+          "imageHint": "print media"
+        },
+        {
+          "id": "print-2-design-23",
+          "description": "merch design",
+          "imageUrl": "/images/printmedia/28.jpg",
+          "imageHint": "print media"
+        }
+      ]
+    },
+
+    {
       "slug": "Loopmedia",
       "title": "LoopMedia Branding ",
       "category": "Branding",
@@ -702,6 +987,58 @@
           "description": "LinkedIn article header graphic",
           "imageUrl": "/images/loop/wrist.jpg",
           "imageHint": "linkedin header"
+        },
+        {
+          "slug": "Paule-car-hire",
+          "title": "Paule Car Hire Designs",
+          "category": "Social Media",
+          "description": "A car Hiring brand.",
+          "longDescription": "Paule car Hire is a car rental company that provides various car hire services to its customers. The project involved creating social media designs that effectively communicate the brand's offerings and attract potential clients. We provided the services of social media design branding to ensure that the message is conveyed effectively while maintaing the brand's identity.",
+          "coverImage": {
+            "id": "social-2-cover",
+            "description": "Elegant social media templates for a fashion brand",
+            "imageUrl": "/images/paule/appreciation.png",
+            "imageHint": "fashion social"
+          },
+          "designs": [
+            {
+              "id": "social-3-design-7",
+              "description": "Carousel post design for Instagram",
+              "imageUrl": "/images/paule/fb&insta-profile.jpg",
+              "imageHint": "carousel post"
+            },
+            {
+              "id": "social-3-design-8",
+              "description": "LinkedIn article header graphic",
+              "imageUrl": "/images/paule/destination.png",
+              "imageHint": "linkedin header"
+            },
+            {
+              "id": "social-3-design-9",
+              "description": "LinkedIn article header graphic",
+              "imageUrl": "/images/paule/appreciation.png",
+              "imageHint": "linkedin header"
+            },
+            {
+              "id": "social-3-design-10",
+              "description": "LinkedIn article header graphic",
+              "imageUrl": "/images/paule/adventure-awaits.png",
+              "imageHint": "linkedin header"
+            },
+
+            {
+              "id": "social-3-design-11",
+              "description": "LinkedIn article header graphic",
+              "imageUrl": "/images/paule/paule-world-aids-day.png",
+              "imageHint": "linkedin header"
+            },
+            {
+              "id": "social-3-design-12",
+              "description": "LinkedIn article header graphic",
+              "imageUrl": "/images/paule/safety first.png",
+              "imageHint": "linkedin header"
+            }
+          ]
         }
       ]
     }
